@@ -1,0 +1,6 @@
+{
+  "name": "Signal Lost",
+  "description": "Atmospheric 2D top-down sci-fi stealth puzzle game featuring dynamic lighting, circuit minigames, patrolling sentries, battery management, and facility escape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
